@@ -1,7 +1,11 @@
 # [Buckets-ReactJS](https://github.com/Dataloft-cloud/Buckets-ReactJS)
+
 [https://docs.textile.io/buckets/](https://docs.textile.io/buckets/)
+
 [https://www.npmjs.com/package/@textile/threads-core](https://www.npmjs.com/package/@textile/threads-core)
+
 [https://www.npmjs.com/package/@textile/hub](https://www.npmjs.com/package/@textile/hub)
+
 ```js
 import { Libp2pCryptoIdentity } from "@textile/threads-core"   
 import { Buckets } from '@textile/hub'
